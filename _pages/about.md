@@ -32,7 +32,7 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 # 📝 SELECTED PUBLICATIONS 
 
 1.J. Y. Tian, T. P. Zhang, A. Y. Qin, Z. W. Shang, and Y. Y. Tang, “Learning the Distribution Preserving Semantic Subspace for Clustering”, IEEE Transactions on Image Processing, 2017. (CCF: A) 
-
+<span class='show_paper_citations' data='wQZDPyoAAAAJ:Tyk-4Ss8FVUC'></span>
 2.J. Y. Tian, J. T. Zhou, and J. Duan, “Probabilistic Selective Encryption of Convolutional Neural Networks for Hierarchical Services”, IEEE Conference on Computer Vision and Pattern Recognition, 2021. (CCF: A)
 
 3.J. Y. Tian, J. T. Zhou, Y.M. Li, and J. Duan, “Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain”, Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021. (CCF: A)
