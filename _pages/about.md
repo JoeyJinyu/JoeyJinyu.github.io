@@ -41,7 +41,7 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 
 3.J. Y. Tian, J. T. Zhou, Y.M. Li, and J. Duan, “Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain”, Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021. (CCF: A)
 
-4.J. Y. Tian, J. T. Zhou, and J. Duan, “Providing Hierarchical Services of Convolutional Neural Networks via Probabilistic Selective Encryption”, IEEE Transactions on services computing, 2021. (CCF A)
+4.J. Y. Tian, J. T. Zhou, and J. Duan, “Providing Hierarchical Services of Convolutional Neural Networks via Probabilistic Selective Encryption”, IEEE Transactions on Services Computing, 2021. (CCF A)
 
 5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
 
