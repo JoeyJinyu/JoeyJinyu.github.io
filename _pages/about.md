@@ -29,6 +29,8 @@ Adversarial Machine Learning: Adversarial Detection, White-box Attack, and Physi
 
 Security of Deep Learning: IP Protection of Deep Models, Watermarking of Deep Models. 
 
+Multimedia Forensics: Forgery Detection, DeepFake Detection, AIGC Detection.
+
 Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning. 
 
 # 📝 SELECTED PUBLICATIONS 
