@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinyu Tian is currently an Assistant Professor with the Faculty of Innovation Engineering, Macau University of Science and Technology. He received his Ph.D. degree with the Faculty of Science and Technology, University of Macau, Taipa, China. Before this, he received B.S. and M.S. degrees in mathematics from Chongqing University, Chongqing, China, in 2014 and 2017, respectively. His current research interests include adversarial machine learning, security of deep learning, and subspace learning. He has authored/co-authored over 10 scientific papers in international journals and conferences, such as TIP, TNNLS, AAAI, CVPR. He is regular reviewer of extensive journals and conferences, such as TIP, TMM, ACM MM, and CVPR.
+Jinyu Tian is currently an Assistant Professor at the Faculty of Innovation Engineering, at Macau University of Science and Technology. He received his Ph.D. degree from the Faculty of Science and Technology, University of Macau, Taipa, China. Before this, he received B.S. and M.S. degrees in mathematics from Chongqing University, Chongqing, China, in 2014 and 2017, respectively. His current research interests include adversarial machine learning, security of deep learning, and subspace learning. He has authored/co-authored over 10 scientific papers in international journals and conferences, such as TIP, TNNLS, AAAI, and CVPR. He is a regular reviewer of extensive journals and conferences, such as TIP, TMM, ACM MM, and CVPR.
 
 # 📖 Educations
 - 2017.08 - 2022.01  University of Macau, Macau, China, Ph.D., Computer Science. 
