@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Educations"
+    url: "/#-educations"
+
   - title: "Research areas"
     url: "/#-RESEARCH INTERESTS/AREAS"
 
@@ -12,11 +15,5 @@ main:
   - title: "Activites and Awards"
     url: "/#-PROFESSIONAL ACTIVITIES and Awards"
 
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Research projects experience"
     url: "/#-RESEARCH PROJECTS EXPERIENCE"
-
-  - title: "Internships"
-    url: "/#-internships"
