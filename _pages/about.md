@@ -56,9 +56,9 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 1. Natural Science Award, the Third Prize, Macau, 2022.
 2. Area Chair: Int. Conf. on Multimedia and Expo (CCF B), 2023
 3. Reviewer of journals and conferences, including
-       ·IEEE Trans. on Image Processing
-       ·IEEE Trans. on Multimedia
-       ·International Journal of Pattern Recognition and Machine Learning
+       -IEEE Trans. on Image Processing
+       -IEEE Trans. on Multimedia
+       -International Journal of Pattern Recognition and Machine Learning
        ·IEEE Conference on Computer Vision and Pattern Recognition
        ·ACM Conference on Multimedia
    
