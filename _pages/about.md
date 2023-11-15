@@ -19,7 +19,7 @@ redirect_from:
 
 Jinyu Tian is currently an Assistant Professor at the Faculty of Innovation Engineering, at Macau University of Science and Technology. He received his Ph.D. degree from the Faculty of Science and Technology, University of Macau, Taipa, China. Before this, he received B.S. and M.S. degrees in mathematics from Chongqing University, Chongqing, China, in 2014 and 2017, respectively. His current research interests include adversarial machine learning, security of deep learning, and subspace learning. He has authored/co-authored over 10 scientific papers in international journals and conferences, such as TIP, TNNLS, AAAI, and CVPR. He is a regular reviewer of extensive journals and conferences, such as TIP, TMM, ACM MM, and CVPR.
 
-# 📖 Educations
+# 📖 EDUCATIONS
 - 2017.08 - 2022.01  University of Macau, Macau, China, Ph.D., Computer Science. 
 - 2014.09 - 2017.07  Chongqing University, Chongqing, China, M.S., Mathematics.
 - 2010.09 - 2014.07  Chongqing University, Chongqing, China, B.S., Mathematics.
@@ -56,7 +56,7 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 
 11.A. Y. Qin, Z. W. Shang, J. Y. Tian, Y. L. Wang, T. P. Zhang, and Y. Y. Tang, “Spectral–Spatial Graph Convolutional Networks for Semisupervised Hyperspectral Image Classification”. IEEE Geoscience and Remote Sensing Letters, 2019. (JCR: Q1)
 
-# 🎖 PROFESSIONAL ACTIVITIES and Awards
+# 🎖 PROFESSIONAL ACTIVITIES and AWARDS
 1. Natural Science Award, the Third Prize, Macau, 2022.
 2. Area Chair: Int. Conf. on Multimedia and Expo (CCF B), 2023
 3. Reviewer of journals and conferences, including
