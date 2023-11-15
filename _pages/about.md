@@ -65,7 +65,9 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 # 📝 RESEARCH PROJECTS EXPERIENCE
   Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0040/2023/ITP1, Dec. 2023 
   – Dec. 2025.  (333K Mop)
+  
   Macau Science and Technology Development Fund (FDCT), PI, “Research on Visual Adversarial Perturbation Toward the Protection of Digital Properties and Privacy”, 0004/2023/RIB1, Oct. 2023 
   – Oct. 2026.  (719K Mop)
+  
   Natural Science Foundation of China (NSFC), PI, “Study of Adversarial Perturbations for Privacy-preserving in Online Social Network”, 62202009, Jan. 2023 – Dec. 2025.  (300K RMB)
   
