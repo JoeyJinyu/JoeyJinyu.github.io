@@ -56,10 +56,11 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 
 11.A. Y. Qin, Z. W. Shang, J. Y. Tian, Y. L. Wang, T. P. Zhang, and Y. Y. Tang, “Spectral–Spatial Graph Convolutional Networks for Semisupervised Hyperspectral Image Classification”. IEEE Geoscience and Remote Sensing Letters, 2019. (JCR: Q1)
 
-# 🎖 PROFESSIONAL ACTIVITIES and AWARDS
+# 🎖 PROFESSIONAL ACTIVITIES & AWARDS
 1. Natural Science Award, the Third Prize, Macau, 2022.
-2. Area Chair: Int. Conf. on Multimedia and Expo (CCF B), 2023
-3. Reviewer of journals and conferences, including
+2. The secretary of the Institute of Electrical and Electronics Engineers (IEEE), Macau Section.
+3. Area Chair: Int. Conf. on Multimedia and Expo (CCF B), 2023
+4. Reviewer of journals and conferences, including
    - IEEE Trans. on Image Processing
    - IEEE Trans. on Multimedia
    - International Journal of Pattern Recognition and Machine Learning
