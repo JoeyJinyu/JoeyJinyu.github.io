@@ -26,7 +26,9 @@ Jinyu Tian is currently an Assistant Professor at the Faculty of Innovation Engi
 
 # 💻 RESEARCH INTERESTS/AREAS
 Adversarial Machine Learning: Adversarial Detection, White-box Attack, and Physical Attack.
+
 Security of Deep Learning: IP Protection of Deep Models, Watermarking of Deep Models. 
+
 Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning. 
 
 # 📝 SELECTED PUBLICATIONS 
