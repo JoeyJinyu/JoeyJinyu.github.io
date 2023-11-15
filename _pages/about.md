@@ -63,4 +63,9 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
    - ACM Conference on Multimedia
 
 # 📝 RESEARCH PROJECTS EXPERIENCE
-  Natural Science Foundation of China, PI, “Study of Adversarial Perturbations for Privacy-preserving in Online Social Network”, 62202009, Jan. 2023 – Dec. 2025. 
+  Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0040/2023/ITP1, Dec. 2023 
+  – Dec. 2025.  (300K RMB)
+  Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0040/2023/ITP1, Dec. 2023 
+  – Dec. 2025.  (300K RMB)
+  Natural Science Foundation of China (NSFC), PI, “Study of Adversarial Perturbations for Privacy-preserving in Online Social Network”, 62202009, Jan. 2023 – Dec. 2025.  (300K RMB)
+  
