@@ -33,6 +33,11 @@ Multimedia Forensics: Forgery Detection, DeepFake Detection, AIGC Detection.
 
 Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning. 
 
+# 📖 OPENINGS
+We regularly have several positions for full-scholarship and half-scholarship Ph.D. If you are interested in my research and want to join our group, please don’t hesitate to send me an email with your CV and research interests. 
+
+
+
 # 📝 SELECTED PUBLICATIONS 
 
 1.J. Y. Tian, T. P. Zhang, A. Y. Qin, Z. W. Shang, and Y. Y. Tang, “Learning the Distribution Preserving Semantic Subspace for Clustering”, IEEE Transactions on Image Processing, 2017. (CCF: A) 
