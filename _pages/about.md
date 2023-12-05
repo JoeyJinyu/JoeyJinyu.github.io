@@ -80,4 +80,6 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
   – Oct. 2026.  (719K Mop)
   
   Natural Science Foundation of China (NSFC), PI, “Study of Adversarial Perturbations for Privacy-preserving in Online Social Network”, 62202009, Jan. 2023 – Dec. 2025.  (300K RMB)
+
+  Guangdong Provincial Natural Science Foundation General Project, PI, “Research on Privacy Protection of Social Platforms Based on Discrete Robust Adversarial Perturbation”, Jan. 2024 – Dec. 2026.  (150K RMB)
   
