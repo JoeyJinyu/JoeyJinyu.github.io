@@ -44,26 +44,35 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 **2024**
 
-1.J. Y. Tian, T. P. Zhang, A. Y. Qin, Z. W. Shang, and Y. Y. Tang, “Learning the Distribution Preserving Semantic Subspace for Clustering”, IEEE Transactions on Image Processing, 2017. (CCF: A) 
-<span class='show_paper_citations' data='wQZDPyoAAAAJ:Tyk-4Ss8FVUC'></span>
+**2023**
+5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
+
+
+**2022**
+8.H. W. Wu, J. T. Zhou, J. Y. Tian, and J. Liu, “Robust Image Forgery Detection over Online Social Network Shared Images”, IEEE Conference on Computer Vision and Pattern Recognition, 2022 (Oral, AR 4.2%). (CCF-A)
+
+6.H. W. Wu, J. T. Zhou, J. Y. Tian, J. Liu, and Yu Qiao, “Robust Image Forgery Detection against Transmission over Online Social Networks”, IEEE Transactions on Information Forensics and Security, 2022. (CCF: A)
+
+**2021**
+4.J. Y. Tian, J. T. Zhou, and J. Duan, “Providing Hierarchical Services of Convolutional Neural Networks via Probabilistic Selective Encryption”, IEEE Transactions on Services Computing, 2021. (CCF A)
+
 2.J. Y. Tian, J. T. Zhou, and J. Duan, “Probabilistic Selective Encryption of Convolutional Neural Networks for Hierarchical Services”, IEEE Conference on Computer Vision and Pattern Recognition, 2021. (CCF: A)
 
 3.J. Y. Tian, J. T. Zhou, Y.M. Li, and J. Duan, “Detecting Adversarial Examples from Sensitivity Inconsistency of Spatial-Transform Domain”, Thirty-Fifth AAAI Conference on Artificial Intelligence, 2021. (CCF: A)
 
-4.J. Y. Tian, J. T. Zhou, and J. Duan, “Providing Hierarchical Services of Convolutional Neural Networks via Probabilistic Selective Encryption”, IEEE Transactions on Services Computing, 2021. (CCF A)
+7.W.W. Sun, and J. T. Zhou, L. Dong, J. Y. Tian, J. Liu, “Optimal Pre-filtering for Improving Shared Images in Online Social Networks”, IEEE Transactions on Image Processing, 2021. (CCF: A)
 
-5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
-
-6.H. W. Wu, J. T. Zhou, J. Y. Tian, J. Liu, and Yu Qiao, “Robust Image Forgery Detection against Transmission over Online Social Networks”, IEEE Transactions on Information Forensics and Security, 2022. (CCF: A)
-
-7.W.W. Sun, and J. T. Zhou, L. Dong, J. Y. Tian, J. Liu, “Optimal Pre-filtering for Improving Shared Images in Online Social Networks”, IEEE Transactions on Image Processing, 2017. (CCF: A)
-8.H. W. Wu, J. T. Zhou, J. Y. Tian, and J. Liu, “Robust Image Forgery Detection over Online Social Network Shared Images”, IEEE Conference on Computer Vision and Pattern Recognition, 2022 (Oral, AR 4.2%). (CCF-A)
 
 9.Y. M. Li, J. T. Zhou, J. Y. Tian, X. W. Zheng and Y. Y. Tang, “Weighted Error Entropy based Information Theoretic Learning for Robust Subspace Representation”, IEEE Transactions on Neural Networks and Learning Systems, 2021. (CCF: B)
 
 10.Y. M. Li, J. T. Zhou, X. W. Zhen, J. Y. Tian, and Y. Y. Tang. “Robust Subspace Clustering with Independent and Piecewise Identically Distributed (i.p.i.d.) Noise Modeling”, IEEE Conference on Computer Vision and Pattern Recognition, 2021. (CCF: A; Oral, AR 5.6%)
 
+**Before**
 11.A. Y. Qin, Z. W. Shang, J. Y. Tian, Y. L. Wang, T. P. Zhang, and Y. Y. Tang, “Spectral–Spatial Graph Convolutional Networks for Semisupervised Hyperspectral Image Classification”. IEEE Geoscience and Remote Sensing Letters, 2019. (JCR: Q1)
+
+1.J. Y. Tian, T. P. Zhang, A. Y. Qin, Z. W. Shang, and Y. Y. Tang, “Learning the Distribution Preserving Semantic Subspace for Clustering”, IEEE Transactions on Image Processing, 2017. (CCF: A) 
+<span class='show_paper_citations' data='wQZDPyoAAAAJ:Tyk-4Ss8FVUC'></span>
+
 
 # 🎖 PROFESSIONAL ACTIVITIES & AWARDS
 1. Natural Science Award, the Third Prize, Macau, 2022.
