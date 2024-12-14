@@ -71,6 +71,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 10.Y. M. Li, J. T. Zhou, X. W. Zhen, J. Y. Tian, and Y. Y. Tang. “Robust Subspace Clustering with Independent and Piecewise Identically Distributed (i.p.i.d.) Noise Modeling”, IEEE Conference on Computer Vision and Pattern Recognition, 2021. (CCF: A; Oral, AR 5.6%)
 
 **Before**
+
 11.A. Y. Qin, Z. W. Shang, J. Y. Tian, Y. L. Wang, T. P. Zhang, and Y. Y. Tang, “Spectral–Spatial Graph Convolutional Networks for Semisupervised Hyperspectral Image Classification”. IEEE Geoscience and Remote Sensing Letters, 2019. (JCR: Q1)
 
 1.J. Y. Tian, T. P. Zhang, A. Y. Qin, Z. W. Shang, and Y. Y. Tang, “Learning the Distribution Preserving Semantic Subspace for Clustering”, IEEE Transactions on Image Processing, 2017. (CCF: A) 
