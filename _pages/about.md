@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/ec64d971-5e42-426c-a77e-4b5424e8e3cf)---
 permalink: /
 title: ""
 excerpt: ""
@@ -128,7 +128,7 @@ A. Y. Qin, Z. W. Shang, **J. Y. Tian**, Y. L. Wang, T. P. Zhang, and Y. Y. Tang,
    - International Journal of Pattern Recognition and Machine Learning
    - CVPR, AAAI, ICML, NeruIPS, ACM MM.
 
-# 💻 PROJECTS
+# 💻 FUNDING
   
 1. Natural Science Foundation of China (NSFC), PI, “Study of Adversarial Perturbations for Privacy-preserving in Online Social Network”, 62202009, Jan. 2023 – Dec. 2025.  (300K RMB)
 
