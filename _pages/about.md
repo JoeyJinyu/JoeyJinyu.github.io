@@ -52,8 +52,6 @@ L. Zheng, L. B. Xie, J. T. Zhou, X. T. Wang, H. W. Wu, **J. Y. Tian**, "Data-Fre
 
 F. P. Li, K. M. Li, H. W. Wu, **J. Y. Tian**, J. T. Zhou, "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain", NeruIPS. (CCF A)
 
-Y. Y. Tian, and **J. Y. Tian***, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine. (JCR Q2)
-
 T. T. Wang, **J. Y. Tian***, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine. (JCR Q2)
 
 Y. Wu, **J. Y. Tian***, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays. (JCR Q1)
