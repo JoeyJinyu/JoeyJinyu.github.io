@@ -71,7 +71,7 @@ Y. M. Li, M. Liu, **J. Y. Tian**, J. Du, X. Li, "Operation history estimation an
 
 H. W. Wu, J. T. Zhou, X. Zhang, **J. Y. Tian**, W. W. Sun, "Robust Camera Model Identification over Online Social Network Shared Images via Multi-Scenario Learning", IEEE Transactions on Information Forensics and Security.
 
-5. Y. M. Chen, **J. Y. Tian**, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
+Y. M. Chen, **J. Y. Tian**, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
 
 Y. M. Li, L. Hu, L. Dong, H. W. Wu, **J. Y. Tian**, J. T. Zhou, X. Li, "Transformer-based image inpainting detection via label decoupling and constrained adversarial training", IEEE Transactions on Circuits and Systems for Video Technology
 
