@@ -117,14 +117,16 @@ A. Y. Qin, Z. W. Shang, **J. Y. Tian**, Y. L. Wang, T. P. Zhang, and Y. Y. Tang,
 
 # 🎖 PROFESSIONAL ACTIVITIES & AWARDS
 1. Natural Science Award, the Third Prize, Macau, 2022.
-2. The secretary of the Institute of Electrical and Electronics Engineers (IEEE), Macau Section.
-3. Area Chair: Int. Conf. on Multimedia and Expo (CCF B), 2023
-4. Reviewer of journals and conferences, including
+3. The secretary of the Institute of Electrical and Electronics Engineers (IEEE), Macau Section.
+4. Area Chair: Int. Conf. on Multimedia and Expo (CCF B), 2023
+5. Publication Chair: Asia Pacific Signal and Information Processing Association, Annual Summit and Conference, 16th.
+6. Reviewer of journals and conferences, including
    - IEEE Trans. on Image Processing
+   - IEEE Trans. on Information Forensics and Security
+   - IEEE Trans. on Dependable and Secure Computing
    - IEEE Trans. on Multimedia
    - International Journal of Pattern Recognition and Machine Learning
-   - IEEE Conference on Computer Vision and Pattern Recognition
-   - ACM Conference on Multimedia
+   - CVPR, AAAI, ICML, NeruIPS, ACM MM.
 
 # 🔥 News
   Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0040/2023/ITP1, Dec. 2023 
