@@ -60,11 +60,22 @@ T. T. Wang, T. Tang, Z. Cai, K. Fang, **J. Y. Tian***, J. Q. Li, W. Wang, F. Xia
 X. R.  Wang, **J. Y. Tian***, J. Q. Li, B. Z. Wang, Y. Y. Tang, "Multimodal Fusion With Optimized Embedding Strength for Consumptive Medical Image Protection", IEEE Transactions on Consumer Electronics.
 
 B. Sun, **J. Y. Tian**, Y. Wu, L. Yu, Y. Y. Tang, "Structured Encoding Based on Semantic Disambiguation for Video Captioning", Cognitive Computation.
+
 **2023**
 
-5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
+J. C. Deng, L. Dong, J. Chen, D. Yan, R. Wang, D. Ye, L. Zhao, **J. Y. Tian**, "Universal Defensive Underpainting Patch: Making Your Text Invisible to Optical Character Recognition" ACM MM.
 
+J. Liu, J. T. Zhou, H. W. Wu, W. W. Sun, **J. Y. Tian**, "Generating Robust Adversarial Examples against Online Social Networks (OSNs)", ACM Transactions on Multimedia Computing, Communications and Applications.
 
+Y. M. Li, M. Liu, **J. Y. Tian**, J. Du, X. Li, "Operation history estimation and its application to multi-degraded image restoration", IEEE Transactions on Consumer Electronics.
+
+H. W. Wu, J. T. Zhou, X. Zhang, **J. Y. Tian**, W. W. Sun, "Robust Camera Model Identification over Online Social Network Shared Images via Multi-Scenario Learning", IEEE Transactions on Information Forensics and Security.
+
+5. Y. M. Chen, **J. Y. Tian**, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
+
+Y. M. Li, L. Hu, L. Dong, H. W. Wu, **J. Y. Tian**, J. T. Zhou, X. Li, "Transformer-based image inpainting detection via label decoupling and constrained adversarial training", IEEE Transactions on Circuits and Systems for Video Technology
+
+X. Wang, X. Yuan, M. Li, Y. Sun, **J. Y. Tian**, H. Guo, J. Li, "Parallel multiple watermarking using adaptive Inter-Block correlation", Expert Systems with Applications.
 **2022**
 
 8.H. W. Wu, J. T. Zhou, J. Y. Tian, and J. Liu, “Robust Image Forgery Detection over Online Social Network Shared Images”, IEEE Conference on Computer Vision and Pattern Recognition, 2022 (Oral, AR 4.2%). (CCF-A)
