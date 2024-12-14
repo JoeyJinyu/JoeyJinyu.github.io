@@ -38,18 +38,28 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 # 🔥 NEWS
 2024.11: 🎉 Two papers are accepted by AAAI 2025
-2023.10: 🎉 One paper is accepted by NeruIPS 2024
+
+2024.10: 🎉 One paper is accepted by NeruIPS 2024
 
 # 📝 PUBLICATIONS 
 
 **2024**
-T. T. Wang, <font color=#0000FF>J. Y. Tian*</font>, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine.
+
+T. T. Wang, **J. Y. Tian***, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine.
 
 Y. Wu, **J. Y. Tian***, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays.
 
-J. Liu, J. Zhou, J. Tian, W. W. Sun, "Recoverable Privacy-Preserving Image Classification through Noise-like Adversarial Examples", ACM Transactions on Multimedia Computing, Communications and Applications.
+J Liu, J. T. Zhou, J. D. Zeng, **J. Y. Tian**, "DifAttack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space", AAAI
 
-X. R.  Wang, J. Y. Tian*, J. Q. Li, B. Z. Wang, Y. Y. Tang, "Multimodal Fusion With Optimized Embedding Strength for Consumptive Medical Image Protection", IEEE Transactions on Consumer Electronics.
+F Li, K. M. Li, **J. Y. Tian**, J. T. Zhou, "Regroup Median Loss for Combating Label Noise", AAAI
+
+J. Liu, J. T. Zhou, **J. Y. Tian**, W. W. Sun, "Recoverable Privacy-Preserving Image Classification through Noise-like Adversarial Examples", ACM Transactions on Multimedia Computing, Communications, and Applications.
+
+T. T. Wang, T. Tang, Z. Cai, K. Fang, **J. Y. Tian***, J. Q. Li, W. Wang, F. Xia, "Federated Learning-based Information Leakage Risk Detection for Secure Medical Internet of Things", ACM Transactions on Internet Technology.
+
+X. R.  Wang, **J. Y. Tian***, J. Q. Li, B. Z. Wang, Y. Y. Tang, "Multimodal Fusion With Optimized Embedding Strength for Consumptive Medical Image Protection", IEEE Transactions on Consumer Electronics.
+
+B. Sun, **J. Y. Tian**, Y. Wu, L. Yu, Y. Y. Tang, "Structured Encoding Based on Semantic Disambiguation for Video Captioning", Cognitive Computation.
 **2023**
 
 5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
