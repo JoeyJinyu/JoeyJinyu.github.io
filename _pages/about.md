@@ -36,7 +36,9 @@ Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning.
 # 📖 OPENINGS
 We regularly have several positions for full-scholarship and half-scholarship Ph.D. If you are interested in my research and want to join our group, please don’t hesitate to send me an email with your CV and research interests. 
 
-
+# 🔥 NEWS
+2024.11: 🎉 Two papers are accepted by AAAI 2025
+2023.10: 🎉 One paper is accepted by NeruIPS 2024
 
 # 📝 PUBLICATIONS 
 
@@ -72,7 +74,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
    - IEEE Conference on Computer Vision and Pattern Recognition
    - ACM Conference on Multimedia
 
-# 📝 RESEARCH PROJECTS EXPERIENCE
+# 🔥 News
   Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0040/2023/ITP1, Dec. 2023 
   – Dec. 2025.  (333K Mop)
   
