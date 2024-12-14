@@ -88,9 +88,9 @@ X. Wang, X. Yuan, M. Li, Y. Sun, **J. Y. Tian**, H. Guo, J. Li, "Parallel multip
 
 **2022**
 
-H. W. Wu, J. T. Zhou, J. Y. Tian, and J. Liu, “Robust Image Forgery Detection over Online Social Network Shared Images”, IEEE Conference on Computer Vision and Pattern Recognition, 2022 (Oral, AR 4.2%). (CCF-A)
+H. W. Wu, J. T. Zhou, **J. Y. Tian**, and J. Liu, “Robust Image Forgery Detection over Online Social Network Shared Images”, IEEE Conference on Computer Vision and Pattern Recognition, 2022 (Oral, AR 4.2%). (CCF-A)
 
-H. W. Wu, J. T. Zhou, J. Y. Tian, J. Liu, and Yu Qiao, “Robust Image Forgery Detection against Transmission over Online Social Networks”, IEEE Transactions on Information Forensics and Security, 2022. (CCF: A)
+H. W. Wu, J. T. Zhou, **J. Y. Tian**, J. Liu, and Yu Qiao, “Robust Image Forgery Detection against Transmission over Online Social Networks”, IEEE Transactions on Information Forensics and Security, 2022. (CCF: A)
 
 **2021**
 
