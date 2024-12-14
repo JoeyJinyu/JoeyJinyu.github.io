@@ -42,7 +42,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 2024.10: 🎉 One paper is accepted by NeruIPS 2024
 
 # 📝 PUBLICATIONS 
-**2025**
+**2025** (Accept)
 
 Y. Y. Tian, and **J. Y. Tian***, "Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models", AAAI. (CCF A)
 
