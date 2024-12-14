@@ -45,15 +45,18 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 **2024**
 
 **2023**
+
 5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
 
 
 **2022**
+
 8.H. W. Wu, J. T. Zhou, J. Y. Tian, and J. Liu, “Robust Image Forgery Detection over Online Social Network Shared Images”, IEEE Conference on Computer Vision and Pattern Recognition, 2022 (Oral, AR 4.2%). (CCF-A)
 
 6.H. W. Wu, J. T. Zhou, J. Y. Tian, J. Liu, and Yu Qiao, “Robust Image Forgery Detection against Transmission over Online Social Networks”, IEEE Transactions on Information Forensics and Security, 2022. (CCF: A)
 
 **2021**
+
 4.J. Y. Tian, J. T. Zhou, and J. Duan, “Providing Hierarchical Services of Convolutional Neural Networks via Probabilistic Selective Encryption”, IEEE Transactions on Services Computing, 2021. (CCF A)
 
 2.J. Y. Tian, J. T. Zhou, and J. Duan, “Probabilistic Selective Encryption of Convolutional Neural Networks for Hierarchical Services”, IEEE Conference on Computer Vision and Pattern Recognition, 2021. (CCF: A)
