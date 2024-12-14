@@ -43,12 +43,14 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 # 📝 PUBLICATIONS 
 
 **2024**
+T. T. Wang, **J. Y. Tian***, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine.
+
+Y. Wu, **J. Y. Tian**, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays.
 
 **2023**
 
 5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
 
-Y. Wu, **J. Y. Tian**, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays.
 
 **2022**
 
