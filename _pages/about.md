@@ -131,12 +131,12 @@ A. Y. Qin, Z. W. Shang, **J. Y. Tian**, Y. L. Wang, T. P. Zhang, and Y. Y. Tang,
 # 🔥 News
   
   Natural Science Foundation of China (NSFC), PI, “Study of Adversarial Perturbations for Privacy-preserving in Online Social Network”, 62202009, Jan. 2023 – Dec. 2025.  (300K RMB)
+
+  Macau Science and Technology Development Fund (FDCT), PI, “Research on Visual Adversarial Perturbation Toward the Protection of Digital Properties and Privacy”, 0004/2023/RIB1, Oct. 2023 
+  – Oct. 2026.  (719K Mop)
   
   Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0040/2023/ITP1, Dec. 2023 
   – Dec. 2025.  (333K Mop)
-  
-  Macau Science and Technology Development Fund (FDCT), PI, “Research on Visual Adversarial Perturbation Toward the Protection of Digital Properties and Privacy”, 0004/2023/RIB1, Oct. 2023 
-  – Oct. 2026.  (719K Mop)
 
   Guangdong Provincial Natural Science Foundation General Project, PI, “Research on Privacy Protection of Social Platforms Based on Discrete Robust Adversarial Perturbation”, Jan. 2024 – Dec. 2026.  (150K RMB)
   
