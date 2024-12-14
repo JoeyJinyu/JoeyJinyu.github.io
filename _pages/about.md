@@ -42,6 +42,8 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 # 📝 PUBLICATIONS 
 
+**2024**
+
 1.J. Y. Tian, T. P. Zhang, A. Y. Qin, Z. W. Shang, and Y. Y. Tang, “Learning the Distribution Preserving Semantic Subspace for Clustering”, IEEE Transactions on Image Processing, 2017. (CCF: A) 
 <span class='show_paper_citations' data='wQZDPyoAAAAJ:Tyk-4Ss8FVUC'></span>
 2.J. Y. Tian, J. T. Zhou, and J. Duan, “Probabilistic Selective Encryption of Convolutional Neural Networks for Hierarchical Services”, IEEE Conference on Computer Vision and Pattern Recognition, 2021. (CCF: A)
