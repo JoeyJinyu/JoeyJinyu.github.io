@@ -43,7 +43,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 # 📝 PUBLICATIONS 
 
 **2024**
-T. T. Wang, <font color=#0000FF>**J. Y. Tian***</font>, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine.
+T. T. Wang, <font color=#0000FF>J. Y. Tian*</font>, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine.
 
 Y. Wu, **J. Y. Tian***, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays.
 
