@@ -48,6 +48,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 5.Y. M. Chen, J. Y. Tian, X. Y. Chen, and J. T. Zhou, “Effective Ambiguity Attack Against Passport-based DNN Intellectual Property Protection Schemes through Fully Connected Layer Substitution”, In Proc. of IEEE Conference on Computer Vision and Pattern Recognition, 2023 (CCF-A).
 
+Y. Wu, **J. Y. Tian**, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays.
 
 **2022**
 
@@ -72,7 +73,7 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 
 **Before**
 
-11.A. Y. Qin, Z. W. Shang, J. Y. Tian, Y. L. Wang, T. P. Zhang, and Y. Y. Tang, “Spectral–Spatial Graph Convolutional Networks for Semisupervised Hyperspectral Image Classification”. IEEE Geoscience and Remote Sensing Letters, 2019. (JCR: Q1)
+11.A. Y. Qin, Z. W. Shang, J. Y. Tian, Y. L. Wang, T. P. Zhang, and Y. Y. Tang, “Spectral–Spatial Graph Convolutional Networks for Semisupervised Hyperspectral Image Classification”. IEEE Geoscience and Remote Sensing Letters, 2018. (JCR: Q1)
 
 1.J. Y. Tian, T. P. Zhang, A. Y. Qin, Z. W. Shang, and Y. Y. Tang, “Learning the Distribution Preserving Semantic Subspace for Clustering”, IEEE Transactions on Image Processing, 2017. (CCF: A) 
 <span class='show_paper_citations' data='wQZDPyoAAAAJ:Tyk-4Ss8FVUC'></span>
