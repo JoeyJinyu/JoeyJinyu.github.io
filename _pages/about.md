@@ -90,6 +90,8 @@ X. Wang, X. Yuan, M. Li, Y. Sun, **J. Y. Tian**, H. Guo, J. Li, "Parallel multip
 
 H. W. Wu, J. T. Zhou, **J. Y. Tian**, and J. Liu, “Robust Image Forgery Detection over Online Social Network Shared Images”, IEEE Conference on Computer Vision and Pattern Recognition, 2022 (Oral, AR 4.2%). (CCF-A)
 
+T. T. Wang, K. Fang, W. Wei, J. Y. Tian, Y. Pan, J. Li, "Microcontroller unit chip temperature fingerprint informed machine learning for IIoT intrusion detection", IEEE Transactions on Industrial Informatics. (JCR Q1)
+
 H. W. Wu, J. T. Zhou, **J. Y. Tian**, J. Liu, and Yu Qiao, “Robust Image Forgery Detection against Transmission over Online Social Networks”, IEEE Transactions on Information Forensics and Security, 2022. (CCF: A)
 
 **2021**
