@@ -42,16 +42,25 @@ We regularly have several positions for full-scholarship and half-scholarship Ph
 2024.10: 🎉 One paper is accepted by NeruIPS 2024
 
 # 📝 PUBLICATIONS 
+**2025**
+
+Y. Y. Tian, and **J. Y. Tian***, "Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models", AAAI. (CCF A)
+
+L. Zheng, L. B. Xie, J. T. Zhou, X. T. Wang, H. W. Wu, **J. Y. Tian**, "Data-Free Universal Attack by Exploiting the Intrinsic Vulnerability of Deep Models", AAAI. (CCF A)
 
 **2024**
 
-T. T. Wang, **J. Y. Tian***, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine.
+F. P. Li, K. M. Li, H. W. Wu, **J. Y. Tian**, J. T. Zhou, "DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain", NeruIPS.
 
-Y. Wu, **J. Y. Tian***, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays.
+Y. Y. Tian, and **J. Y. Tian***, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine. (JCR Q2)
 
-J Liu, J. T. Zhou, J. D. Zeng, **J. Y. Tian**, "DifAttack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space", AAAI
+T. T. Wang, **J. Y. Tian***, K. Fang, T. R.Gadekallu, W. Wang, "AI and Digital Twin for Consumer Electronics in Smart Cities", IEEE Consumer Electronics Magazine. (JCR Q2)
 
-F Li, K. M. Li, **J. Y. Tian**, J. T. Zhou, "Regroup Median Loss for Combating Label Noise", AAAI
+Y. Wu, **J. Y. Tian***, H. J. Liu, Y. Y. Tang, “A dense video caption dataset of student classroom behaviors and a baseline model with boundary semantic awareness”, Displays. (JCR Q1)
+
+J Liu, J. T. Zhou, J. D. Zeng, **J. Y. Tian**, "DifAttack: Query-Efficient Black-Box Adversarial Attack via Disentangled Feature Space", AAAI (CCF A)
+
+F Li, K. M. Li, **J. Y. Tian**, J. T. Zhou, "Regroup Median Loss for Combating Label Noise", AAAI (CCF A)
 
 J. Liu, J. T. Zhou, **J. Y. Tian**, W. W. Sun, "Recoverable Privacy-Preserving Image Classification through Noise-like Adversarial Examples", ACM Transactions on Multimedia Computing, Communications, and Applications.
 
