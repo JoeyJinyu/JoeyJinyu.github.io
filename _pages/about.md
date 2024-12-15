@@ -17,31 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinyu Tian is currently an Assistant Professor at the Faculty of Innovation Engineering, at Macau University of Science and Technology. He received his Ph.D. degree from the Faculty of Science and Technology, University of Macau, Taipa, China. Before this, he received B.S. and M.S. degrees in mathematics from Chongqing University, Chongqing, China, in 2014 and 2017, respectively. His current research interests include adversarial machine learning, security of deep learning, and subspace learning. He has authored/co-authored over 10 scientific papers in international journals and conferences, such as TIP, TNNLS, AAAI, and CVPR. He is a regular reviewer of extensive journals and conferences, such as TIP, TMM, ACM MM, and CVPR.
+田晋宇目前任职于澳门科技大学创新工程学院助理教授。2022年于澳门大学获得计算机科学博士学位。在此之前，分别于2014年和2017年获得了中国重庆大学的数学学士和硕士学位。他的研究兴趣包括对抗机器学习、深度学习安全、多媒体取证和子空间学习。目前已在国际期刊和会议上发表了30余篇科学论文，涵盖TIP、TNNLS、AAAI、CVPR等领域内顶级期刊。他也是多个期刊和会议的常规审稿人，如TIP、TMM、ACM MM和CVPR。
 
-# 📖 EDUCATIONS
-- 2017.08 - 2022.01  University of Macau, Macau, China, Ph.D., Computer Science. 
-- 2014.09 - 2017.07  Chongqing University, Chongqing, China, M.S., Mathematics.
-- 2010.09 - 2014.07  Chongqing University, Chongqing, China, B.S., Mathematics.
+# 📖 教育背景
+- 2017.08 - 2022.01  澳门大学, 中国澳门, 计算机博士学位. 
+- 2014.09 - 2017.07  重庆大学, 中国重庆, 数学硕士学位.
+- 2010.09 - 2014.07  重庆大学, 中国重庆, 数学与应用数学学士学位.
 
-# 💻 RESEARCH INTERESTS/AREAS
-Adversarial Machine Learning: Adversarial Detection, White-box Attack, and Physical Attack.
+# 💻 研究兴趣与领域
+**对抗机器学习：**对抗检测、白盒攻击、通用攻击、物理攻击。
 
-Security of Deep Learning: IP Protection of Deep Models, Watermarking of Deep Models. 
+**深度学习安全：**深度模型的知识产权保护、深度模型的水印技术、不可学习样本。
 
-Multimedia Forensics: Forgery Detection, DeepFake Detection, AIGC Detection.
+**多媒体取证：**伪造检测、深度伪造检测、AIGC检测。
 
-Subspace Learning: Subspace Manifold Representation, Robust Subspace Learning. 
-
-# 📖 OPENINGS
-We regularly have several positions for full-scholarship and half-scholarship Ph.D. If you are interested in my research and want to join our group, please don’t hesitate to send me an email with your CV and research interests. 
+**子空间学习：**流形学习、鲁棒子空间学习。
 
 # 🔥 NEWS
 2024.11: 🎉 Two papers are accepted by AAAI 2025
 
 2024.10: 🎉 One paper is accepted by NeruIPS 2024
 
-# 📝 PUBLICATIONS 
+# 📝 学术论文 
 **2025** (Accept)
 
 Y. Y. Tian, and **J. Y. Tian***, "Anti-Diffusion: Preventing Abuse of Modifications of Diffusion-Based Models", AAAI. (CCF A)
@@ -115,12 +112,12 @@ A. Y. Qin, Z. W. Shang, **J. Y. Tian**, Y. L. Wang, T. P. Zhang, and Y. Y. Tang,
 <span class='show_paper_citations' data='wQZDPyoAAAAJ:Tyk-4Ss8FVUC'></span>
 
 
-# 🎖 PROFESSIONAL ACTIVITIES & AWARDS
-1. Natural Science Award, the Third Prize, Macau, 2022.
-3. The secretary of the Institute of Electrical and Electronics Engineers (IEEE), Macau Section.
-4. Area Chair: Int. Conf. on Multimedia and Expo (CCF B), 2023
-5. Publication Chair: Asia Pacific Signal and Information Processing Association, Annual Summit and Conference, 16th.
-6. Reviewer of journals and conferences, including
+# 🎖 学术活动和奖项 
+1. 澳门自然科学三等奖
+3. 电子及电气工程师学会（IEEE），澳门分会秘书长
+4. 领域主席: International Conference on Multimedia and Expo (ICME, CCF B), 2023
+5. 出版主席: Asia Pacific Signal and Information Processing Association, Annual Summit and Conference, 16th.
+7. 审稿工作:
    - IEEE Trans. on Image Processing
    - IEEE Trans. on Information Forensics and Security
    - IEEE Trans. on Dependable and Secure Computing
@@ -128,15 +125,13 @@ A. Y. Qin, Z. W. Shang, **J. Y. Tian**, Y. L. Wang, T. P. Zhang, and Y. Y. Tang,
    - International Journal of Pattern Recognition and Machine Learning
    - CVPR, AAAI, ICML, NeruIPS, ACM MM.
 
-# 💻 FUNDING
+# 💻 科研项目
   
-1. Natural Science Foundation of China (NSFC), PI, “Study of Adversarial Perturbations for Privacy-preserving in Online Social Network”, 62202009, Jan. 2023 – Dec. 2025.  (300K RMB)
+1. 国家自然科学基金，青年项目 (NSFC), 主持, “面向社交网络隐私保护的对抗扰动研究”, 62202009, 2023/01/01 – 2025/12/31.  (30万 人民币)
 
-2. Macau Science and Technology Development Fund (FDCT), PI, “Research on Visual Adversarial Perturbation Toward the Protection of Digital Properties and Privacy”, 0004/2023/RIB1, Oct. 2023 
-  – Oct. 2026.  (719K Mop)
+2. 澳门科学发展基金 (FDCT), 主持, “面向数字产权及隐私保护的视觉对抗扰动研究”, 0004/2023/RIB1, 2023/10/01 - 2026/10/01 (71.9万 澳门元)
   
-3. Macau Science and Technology Development Fund (FDCT), PI, “Research and Application of Key Technologies for Artificial Intelligence Generated Content Detection”, 0040/2023/ITP1, Dec. 2023 
-  – Dec. 2025.  (333K Mop)
+3. 澳门科学发展基金 (FDCT), 主持, “人工智能生成內容检查关键技术研究及应用”, 0040/2023/ITP1, 2023/12/01-2025/12/01 (33.3万 澳门元)
 
-4. Guangdong Provincial Natural Science Foundation General Project, PI, “Research on Privacy Protection of Social Platforms Based on Discrete Robust Adversarial Perturbation”, Jan. 2024 – Dec. 2026.  (150K RMB)
+4. 广东省面上项目, 主持, “基于离散鲁棒对抗扰动的社交平台隐私保护研究", 2024A1515011755 (15万 人民币)
   
