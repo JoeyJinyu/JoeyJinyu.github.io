@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinyu Tian"
+  name             : "田晋宇"
   avatar           : "images/jinyu.png"
-  bio              : "Macau University of Science and Technology"
-  location         : "Macau, China"
+  bio              : "澳门科技大学"
+  location         : "中国澳门"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wQZDPyoAAAAJ"
